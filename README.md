@@ -1,5 +1,5 @@
 
-# 🌐 Nexentora Platform
+#                                                                  🌐 Nexentora Platform
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=2563EB&center=true&vCenter=true&width=1000&lines=Nexentora+Platform;Production+Ready+Web+Application;Internship+Management+System;Client+Staff+Partner+Management;Enterprise+Business+Operations+Platform" />
@@ -25,8 +25,6 @@ The system provides dedicated dashboards and access controls for Administrators,
 
 
 <div align="center">
-
-# 🌐 Nexentora Platform
 
 ### 👨‍💻 Surya Kannan
 
@@ -57,9 +55,19 @@ The system provides dedicated dashboards and access controls for Administrators,
 ## 🎥 Platform Demonstration
 
 <p align="center">
-<a href="https://youtu.be/mQhLqxHxBqI">
-<img src="https://img.shields.io/badge/▶️_WATCH_PLATFORM_DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+<a href="https://youtu.be/mQhLqxHxBqI" target="_blank">
+<img src="https://img.youtube.com/vi/mQhLqxHxBqI/maxresdefault.jpg" width="900">
 </a>
+</p>
+
+<p align="center">
+<a href="https://youtu.be/mQhLqxHxBqI">
+<img src="https://img.shields.io/badge/▶️_WATCH_FULL_DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+</p>
+
+<p align="center">
+<b>Click the preview image above to watch the complete platform demonstration.</b>
 </p>
 
 ---
@@ -299,32 +307,6 @@ This repository serves as a professional showcase of the platform, its architect
 
 ---
 
-## 👨‍💻 Developer
 
-### Surya Kannan
-
-Full Stack Web Developer • PHP Developer • Technical Support Engineer
-
-📍 Ariyalur, Tamil Nadu, India
-
-📧 [mkanansurya@gmail.com](mailto:mkanansurya@gmail.com)
-
-🔗 LinkedIn Profile
-
-🔗 GitHub Profile
-
----
-
-<p align="center">
-
-<h2 align="center">🚀 Building Modern Digital Solutions</h2>
-
-<p align="center">
-Thank you for visiting Nexentora.
-</p>
-
-<p align="center">
-⭐ Star this repository if you found it interesting.
-</p>
 
 </p>
