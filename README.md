@@ -1,5 +1,8 @@
+<div align="center">
 
 #                                                                  🌐 Nexentora Platform
+
+</div>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=2563EB&center=true&vCenter=true&width=1000&lines=Nexentora+Platform;Production+Ready+Web+Application;Internship+Management+System;Client+Staff+Partner+Management;Enterprise+Business+Operations+Platform" />
